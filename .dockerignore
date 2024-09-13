@@ -1,0 +1,22 @@
+# downloaded content
+**/node_modules
+# built cotent
+**/dist
+**/bin
+**/obj
+# user-specific files
+*.suo
+.vs
+.vscode
+.idea
+# temp files
+.DS_Store
+*.tmp
+*.bak
+*.sql
+*.zip
+# secrets
+.env
+# non-production files
+appsettings.*.json
+**/launchSettings.json
